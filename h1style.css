@@ -1,0 +1,17 @@
+h1 {
+    color:blue;
+    text-align: center;
+}
+button
+{
+    color:red;
+    background: rgb(247, 241, 245);
+
+}
+div{
+    width: 20%;
+    height: 30%;
+    background-color:rgb(240, 199, 240);
+    margin:1%;
+    padding: 2%;
+}
